@@ -1,0 +1,7 @@
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Bezao\Projects\Beginner\NumberGame\Number_Game\Number_Game\obj\Debug\Number_Game.csprojAssemblyReference.cache
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Bezao\Projects\Beginner\NumberGame\Number_Game\Number_Game\obj\Debug\Number_Game.csproj.CoreCompileInputs.cache
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Bezao\Projects\Beginner\NumberGame\Number_Game\Number_Game\bin\Debug\Number_Game.exe.config
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Bezao\Projects\Beginner\NumberGame\Number_Game\Number_Game\bin\Debug\Number_Game.exe
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Bezao\Projects\Beginner\NumberGame\Number_Game\Number_Game\bin\Debug\Number_Game.pdb
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Bezao\Projects\Beginner\NumberGame\Number_Game\Number_Game\obj\Debug\Number_Game.exe
+C:\Users\Tobenna's PC\Documents\Visual Studio 2019\Bezao\Projects\Beginner\NumberGame\Number_Game\Number_Game\obj\Debug\Number_Game.pdb
